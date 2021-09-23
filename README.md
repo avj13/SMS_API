@@ -15,7 +15,7 @@ Service used to check the incoming and outgoing SMS(Short Message Service) and c
         i.  inapi()            : "/api/inbound/sms"     :     POST
         2.  outapi()           : "/api/outbound/sms"    :     POST
         
-    b. CRED operation API found in Controller Packages:  
+    b. CRUD operation API found in Controller Packages:  
     AccountController
          i. getAllAccount()   : "/getall"               :     GET
         ii. getAccountById()  : "/account/{id}"         :     GET
